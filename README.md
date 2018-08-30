@@ -51,3 +51,13 @@ Install Mongodb compass - mongo client
 - data loader
 
 
+Response:
+
+[
+	{
+		id: "d223c445-adde-4266-abbe-87462b2a7a96",
+		name: "customer1",
+		age: "12",
+		gender: "Male"
+	}
+]
