@@ -27,9 +27,10 @@ Contact and feedback:
 
 Spring boot - spring data mongo db application
 ==============================================
+Source code location:
+https://github.com/TechPrudent/spring-boot-spring-data-mongo-sample
 
 Mongodb
-
 - written in c++
 - json
 - document db
@@ -39,17 +40,17 @@ Mongodb
 - highly available, scallable, performance
 
 Pls check my videos on how to do install mongo db
-Install Mongodb compass - mongo client
+Install Mongodb compass along with it - mongo client
+https://www.youtube.com/watch?v=c1dmvedEONA&list=PLE_LKRbZmLGItXufCTavCBGIht8aLrsGI&index=3
 
-
+what are we doing in this project?
 - connection properties mongodb
 - customer controller
 - customer repository
 - customer document (entity)
 	- Id, name, age, gender
-- Contact
+- Contact - optional document class
 - data loader
-
 
 Response:
 
