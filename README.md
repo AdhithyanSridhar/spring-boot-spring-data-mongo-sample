@@ -17,10 +17,6 @@ Mongodb
 - replication
 - highly available, scallable, performance
 
-Pls check my videos on how to do install mongo db
-Install Mongodb compass along with it - mongo client
-https://www.youtube.com/watch?v=c1dmvedEONA&list=PLE_LKRbZmLGItXufCTavCBGIht8aLrsGI&index=3
-
 what are we doing in this project?
 - connection properties mongodb
 - customer controller
